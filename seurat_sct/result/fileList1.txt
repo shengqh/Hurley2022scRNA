@@ -1,0 +1,7 @@
+/data/cqs/paula_hurley_data/202011_scRNA/Count/4701-HYW-1/filtered_feature_bc_matrix.h5	HYW_4701
+/data/cqs/paula_hurley_data/202011_scRNA/Count/4857-HYW-1/filtered_feature_bc_matrix.h5	HYW_4847
+/data/cqs/paula_hurley_data/202011_scRNA/Count/4880-HYW-1/filtered_feature_bc_matrix.h5	HYW_4880
+/data/cqs/paula_hurley_data/202011_scRNA/Count/4881-HYW-1/filtered_feature_bc_matrix.h5	HYW_4881
+/data/cqs/paula_hurley_data/202011_scRNA/Count/5386-HYW-1/filtered_feature_bc_matrix.h5	HYW_5386
+/data/cqs/paula_hurley_data/202011_scRNA/Count/5742-HYW-1/filtered_feature_bc_matrix.h5	HYW_5742
+/data/cqs/paula_hurley_data/202011_scRNA/Count/5755-HYW-1/filtered_feature_bc_matrix.h5	HYW_5755

@@ -1,0 +1,178 @@
+Celltype name	Layer1	Layer2	Layer3	Layer4
+Hepatic stellate cells	Connective tissue cell	Fibroblasts	Hepatic stellate cells	Hepatic stellate cells
+Pancreatic stellate cells	Connective tissue cell	Fibroblasts	Pancreatic stellate cells	Pancreatic stellate cells
+Mesangial cells	Connective tissue cell	Mesangial cells	Mesangial cells	Mesangial cells
+Chondrocytes	Connective tissue cell	Stromal cells	Chondrocytes	Chondrocytes
+Stromal cells	Connective tissue cell	Stromal cells	Stromal cells	Stromal cells
+Luteal cells	Connective tissue cell	Stromal cells	Luteal cells	Luteal cells
+Decidual cells	Connective tissue cell	Stromal cells	Decidual cells	Decidual cells
+Fibroblasts	Connective tissue cell	Fibroblasts	Fibroblasts	Fibroblasts
+Adipocytes	Connective tissue cell	Adipocytes	Adipocytes	Adipocytes
+Pericytes	Connective tissue cell	Pericytes	Pericytes	Pericytes
+Luminal epithelial cells	Epithelial cells	Secretory cell	Luminal epithelial cells	Luminal epithelial cells
+Cholangiocytes	Epithelial cells	Duct epithelial cell	Cholangiocytes	Cholangiocytes
+Ductal cells	Epithelial cells	Duct epithelial cell	Ductal cells	Ductal cells
+Neuroendocrine cells	Epithelial cells	Ecto-epithelial cell	Secretory cell	Neuroendocrine cells
+Pinealocytes	Epithelial cells	Ecto-epithelial cell	Secretory cell	Pinealocytes
+Anterior pituitary gland cells	Epithelial cells	Ecto-epithelial cell	Secretory cell	Anterior pituitary gland cells
+Choroid plexus cells	Epithelial cells	Ecto-epithelial cell	Neurecto-epthelial cell	Choroid plexus cells
+Chromaffin cells	Epithelial cells	Ecto-epithelial cell	Secretory cell	Chromaffin cells
+Keratinocytes	Epithelial cells	Ecto-epithelial cell	Keratinocytes	Keratinocytes
+Olfactory epithelial cells	Epithelial cells	Ecto-epithelial cell	Neurecto-epthelial cell	Olfactory epithelial cells
+Glomus cells	Epithelial cells	Ecto-epithelial cell	Neurecto-epthelial cell	Glomus cells
+Trichocytes	Epithelial cells	Ecto-epithelial cell	Trichocytes	Trichocytes
+Parathyroid chief cells	Epithelial cells	Endo-epithelial cell	Parathyroid chief cells	Parathyroid chief cells
+Oxyphil cells	Epithelial cells	Endo-epithelial cell	Oxyphil cells	Oxyphil cells
+Follicular cells	Epithelial cells	Endo-epithelial cell	Follicular cells	Follicular cells
+Paneth cells	Epithelial cells	Endo-epithelial cell	Intestinal epithelial cell	Paneth cells
+Enterocytes	Epithelial cells	Endo-epithelial cell	Intestinal epithelial cell	Enterocytes
+Microfold cells	Epithelial cells	Endo-epithelial cell	Microfold cells	Microfold cells
+Tuft cells	Epithelial cells	Endo-epithelial cell	Tuft cells	Tuft cells
+Crypt cells	Epithelial cells	Endo-epithelial cell	Intestinal epithelial cell	Crypt cells
+Clara cells	Epithelial cells	Endo-epithelial cell	Clara cells	Clara cells
+Airway epithelial cells	Epithelial cells	Endo-epithelial cell	Airway epithelial cells	Airway epithelial cells
+Pulmonary alveolar type I cells	Epithelial cells	Epithelial cell of lung	Pulmonary alveolar type I cells	Pulmonary alveolar type I cells
+Pulmonary alveolar type II cells	Epithelial cells	Epithelial cell of lung	Pulmonary alveolar type II cells	Pulmonary alveolar type II cells
+Salivary mucous cells	Epithelial cells	Glandular epithelial cell	Salivary mucous cells	Salivary mucous cells
+Gastric chief cells	Epithelial cells	Glandular epithelial cell	Glandular cell of stomach	Gastric chief cells
+Goblet cells	Epithelial cells	Glandular epithelial cell	Goblet cells	Goblet cells
+Parietal cells	Epithelial cells	Glandular epithelial cell	Glandular cell of stomach	Parietal cells
+Enteroendocrine cells	Epithelial cells	Secretory cell	Enteroendocrine cells	Enteroendocrine cells
+Enterochromaffin cells	Epithelial cells	Secretory cell	Enteroendocrine cells	Enterochromaffin cells
+Foveolar cells	Epithelial cells	Glandular epithelial cell	Glandular cell of stomach	Foveolar cells
+Airway goblet cells	Epithelial cells	Glandular epithelial cell	Goblet cells	Airway goblet cells
+Beta cells	Epithelial cells	Secretory cell	Pancreas	Beta cells
+Alpha cells	Epithelial cells	Secretory cell	Pancreas	Alpha cells
+Delta cells	Epithelial cells	Secretory cell	Pancreas	Delta cells
+Acinar cells	Epithelial cells	Secretory cell	Pancreas	Acinar cells
+Gamma (PP) cells	Epithelial cells	Secretory cell	Pancreas	Gamma (PP) cells
+Podocytes	Epithelial cells	Kidney epithelial cell	Podocytes	Podocytes
+Distal tubule cells	Epithelial cells	Kidney epithelial cell	Distal tubule cells	Distal tubule cells
+Proximal tubule cells	Epithelial cells	Kidney epithelial cell	Proximal tubule cells	Proximal tubule cells
+Principal cells	Epithelial cells	Kidney epithelial cell	Principal cells	Principal cells
+Intercalated cells	Epithelial cells	Kidney epithelial cell	Intercalated cells	Intercalated cells
+Loop of Henle cells	Epithelial cells	Kidney epithelial cell	Loop of Henle cells	Loop of Henle cells
+Mesothelial cells	Epithelial cells	Meso-epithelial cell	Mesothelial cells	Mesothelial cells
+Endothelial cells	Epithelial cells	Meso-epithelial cell	Endothelial cells	Endothelial cells
+Endothelial cells (aorta)	Epithelial cells	Meso-epithelial cell	Endothelial cells	Endothelial cells (aorta)
+Myoepithelial cells	Epithelial cells	Meso-epithelial cell	Myoepithelial cells	Myoepithelial cells
+Sertoli cells	Epithelial cells	Meso-epithelial cell	Mesothelial cells	Sertoli cells
+Granulosa cells	Epithelial cells	Meso-epithelial cell	Granulosa cells	Granulosa cells
+Peritubular myoid cells	Epithelial cells	Meso-epithelial cell	Mesothelial cells	Peritubular myoid cells
+Urothelial cells	Epithelial cells	Urothelial cells	Urothelial cells	Urothelial cells
+Epithelial cells	Epithelial cells	Epithelial cells	Epithelial cells	Epithelial cells
+Mammary epithelial cells	Epithelial cells	Mammary epithelial cells	Mammary epithelial cells	Mammary epithelial cells
+Hepatocytes	Epithelial cells	Hepatocytes	Hepatocytes	Hepatocytes
+Ionocytes	Epithelial cells	Epithelial cell of lung	Ionocytes	Ionocytes
+Ciliated cells	Epithelial cells	Epithelial cell of lung	Ciliated cells	Ciliated cells
+Merkel cells	Epithelial cells	Ecto-epithelial cell	Neurecto-epthelial cell	Merkel cells
+Endothelial cells (blood brain barrier)	Epithelial cells	Meso-epithelial cell	Endothelial cells	Endothelial cells (blood brain barrier)
+Plasma cells	Hematopoietic cell	B cells	Plasma cells	Plasma cells
+B cells memory	Hematopoietic cell	B cells	B cells memory	B cells memory
+B cells naive	Hematopoietic cell	B cells	B cells naive	B cells naive
+Langerhans cells	Hematopoietic cell	Monocytes	Dendritic cells	Langerhans cells
+Plasmacytoid dendritic cells	Hematopoietic cell	Monocytes	Dendritic cells	Plasmacytoid dendritic cells
+Basophils	Hematopoietic cell	Granulocyte	Basophils	Basophils
+Eosinophils	Hematopoietic cell	Granulocyte	Eosinophils	Eosinophils
+Neutrophils	Hematopoietic cell	Granulocyte	Neutrophils	Neutrophils
+Microglia	Hematopoietic cell	Monocytes	Macrophages	Microglia
+Red pulp macrophages	Hematopoietic cell	Monocytes	Macrophages	Red pulp macrophages
+Meningeal cells	Hematopoietic cell	Monocytes	Macrophages	Meningeal cells
+Kupffer cells	Hematopoietic cell	Monocytes	Macrophages	Kupffer cells
+Alveolar macrophages	Hematopoietic cell	Monocytes	Macrophages	Alveolar macrophages
+Platelets	Hematopoietic cell	Myeloid cell	Platelets	Platelets
+Megakaryocytes	Hematopoietic cell	Myeloid cell	Megakaryocytes	Megakaryocytes
+Reticulocytes	Hematopoietic cell	Myeloid cell	Reticulocytes	Reticulocytes
+Gamma delta T cells	Hematopoietic cell	T cells	Gamma delta T cells	Gamma delta T cells
+T memory cells	Hematopoietic cell	T cells	T memory cells	T memory cells
+Natural killer T cells	Hematopoietic cell	T cells	Natural killer T cells	Natural killer T cells
+T regulatory cells	Hematopoietic cell	T cells	T regulatory cells	T regulatory cells
+Thymocytes	Hematopoietic cell	T cells	Thymocytes	Thymocytes
+T cells naive	Hematopoietic cell	T cells	T cells naive	T cells naive
+T cytotoxic cells	Hematopoietic cell	T cells	T cytotoxic cells	T cytotoxic cells
+T helper cells	Hematopoietic cell	T cells	T helper cells	T helper cells
+T follicular helper cells	Hematopoietic cell	T cells	T helper cells	T follicular helper cells
+T cells	Hematopoietic cell	T cells	T cells	T cells
+Mast cells	Hematopoietic cell	Mast cells	Mast cells	Mast cells
+Macrophages	Hematopoietic cell	Monocytes	Macrophages	Macrophages
+B cells	Hematopoietic cell	B cells	B cells	B cells
+Dendritic cells	Hematopoietic cell	Monocytes	Dendritic cells	Dendritic cells
+Monocytes	Hematopoietic cell	Monocytes	Monocytes	Monocytes
+NK cells	Hematopoietic cell	NK cells	NK cells	NK cells
+Myeloid-derived suppressor cells	Hematopoietic cell	Myeloid cell	Myeloid-derived suppressor cells	Myeloid-derived suppressor cells
+Nuocytes	Hematopoietic cell	Nuocytes	Nuocytes	Nuocytes
+Juxtaglomerular cells	Muscle cell	Smooth muscle cells	Juxtaglomerular cells	Juxtaglomerular cells
+Pulmonary vascular smooth muscle cells	Muscle cell	Smooth muscle cells	Pulmonary vascular smooth muscle cells	Pulmonary vascular smooth muscle cells
+Airway smooth muscle cells	Muscle cell	Smooth muscle cells	Airway smooth muscle cells	Airway smooth muscle cells
+Cardiomyocytes	Muscle cell	Cardiomyocytes	Cardiomyocytes	Cardiomyocytes
+Purkinje fiber cells	Muscle cell	Purkinje fiber cells	Purkinje fiber cells	Purkinje fiber cells
+Smooth muscle cells	Muscle cell	Smooth muscle cells	Smooth muscle cells	Smooth muscle cells
+Vascular smooth muscle cells	Muscle cell	Smooth muscle cells	Vascular smooth muscle cells	Vascular smooth muscle cells
+Myocytes	Muscle cell	Myocytes	Myocytes	Myocytes
+Satellite glial cells	Neural cell	Glial cell	Satellite glial cells	Satellite glial cells
+Astrocytes	Neural cell	Glial cell	Astrocytes	Astrocytes
+Oligodendrocytes	Neural cell	Glial cell	Oligodendrocytes	Oligodendrocytes
+Bergmann glia	Neural cell	Glial cell	Astrocytes	Bergmann glia
+Radial glia cells	Neural cell	Glial cell	Radial glia cells	Radial glia cells
+Ependymal cells	Neural cell	Glial cell	Astrocytes	Ependymal cells
+Tanycytes	Neural cell	Glial cell	Astrocytes	Tanycytes
+Schwann cells	Neural cell	Glial cell	Schwann cells	Schwann cells
+Muller cells	Neural cell	Glial cell	Radial glial cells	Muller cells
+Enteric glia cells	Neural cell	Glial cell	Enteric glia cells	Enteric glia cells
+Peri-islet Schwann cells	Neural cell	Glial cell	Schwann cells	Peri-islet Schwann cells
+Immature neurons	Neural cell	Neurons	Immature neurons	Immature neurons
+Trigeminal neurons	Neural cell	Neurons	Trigeminal neurons	Trigeminal neurons
+Interneurons	Neural cell	Neurons	Interneurons	Interneurons
+Motor neurons	Neural cell	Neurons	Efferent neuron	Motor neurons
+Cholinergic neurons	Neural cell	Neurons	Cholinergic neurons	Cholinergic neurons
+Purkinje neurons	Neural cell	Neurons	Efferent neuron	Purkinje neurons
+Photoreceptor cells	Neural cell	Neurons	Afferent neuron	Photoreceptor cells
+Neurons	Neural cell	Neurons	Neurons	Neurons
+Pyramidal cells	Neural cell	Neurons	CNS neuron	Pyramidal cells
+GABAergic neurons	Neural cell	Neurons	GABAergic neurons	GABAergic neurons
+Glutaminergic neurons	Neural cell	Neurons	Glutaminergic neurons	Glutaminergic neurons
+Cajal-Retzius cells	Neural cell	Neurons	CNS neuron	Cajal-Retzius cells
+Dopaminergic neurons	Neural cell	Neurons	Dopaminergic neurons	Dopaminergic neurons
+Retinal ganglion cells	Neural cell	Neurons	CNS neuron	Retinal ganglion cells
+Serotonergic neurons	Neural cell	Neurons	Serotonergic neurons	Serotonergic neurons
+Noradrenergic neurons	Neural cell	Neurons	Noradrenergic neurons	Noradrenergic neurons
+Glycinergic neurons	Neural cell	Neurons	Glycinergic neurons	Glycinergic neurons
+Taste receptor cells	Neural cell	Neurons	Afferent neuron	Taste receptor cells
+Enteric neurons	Neural cell	Neurons	Enteric neurons	Enteric neurons
+Oligodendrocyte progenitor cells	Neural cell	Glial cell	Oligodendrocytes	Oligodendrocyte progenitor cells
+Neural stem/precursor cells	Precursor cell	Stem cell	Neural stem/precursor cells	Neural stem/precursor cells
+Basal cells	Precursor cell	Stem cell	Basal cells	Basal cells
+Hepatoblasts	Precursor cell	Stem cell	Hepatoblasts	Hepatoblasts
+Cardiac stem and precursor cells	Precursor cell	Stem cell	Cardiac stem and precursor cells	Cardiac stem and precursor cells
+Pancreatic progenitor cells	Precursor cell	Stem cell	Pancreatic progenitor cells	Pancreatic progenitor cells
+Trophoblast stem cells	Precursor cell	Stem cell	Trophoblast stem cells	Trophoblast stem cells
+Hematopoietic stem cells	Precursor cell	Stem cell	Hematopoietic stem cells	Hematopoietic stem cells
+Epiblast cells	Precursor cell	Stem cell	Epiblast cells	Epiblast cells
+Pluripotent stem cells	Precursor cell	Stem cell	Pluripotent stem cells	Pluripotent stem cells
+Embryonic stem cells	Precursor cell	Stem cell	Embryonic stem cells	Embryonic stem cells
+Retinal progenitor cells	Precursor cell	Stem cell	Retinal progenitor cells	Retinal progenitor cells
+Neuroblasts	Precursor cell	Neuroblasts	Neuroblasts	Neuroblasts
+Adipocyte progenitor cells	Precursor cell	Adipocyte progenitor cells	Adipocyte progenitor cells	Adipocyte progenitor cells
+Kidney progenitor cells	Precursor cell	Kidney progenitor cells	Kidney progenitor cells	Kidney progenitor cells
+Transient cells	Precursor cell	Transient cells	Transient cells	Transient cells
+Myoblasts	Precursor cell	Myoblasts	Myoblasts	Myoblasts
+Satellite cells	Precursor cell	Satellite cells	Satellite cells	Satellite cells
+Osteoclast precursor cells	Precursor cell	Osteoclast precursor cells	Osteoclast precursor cells	Osteoclast precursor cells
+Trophoblast progenitor cells	Precursor cell	Trophoblast progenitor cells	Trophoblast progenitor cells	Trophoblast progenitor cells
+Erythroid-like and erythroid precursor cells	Precursor cell	Erythroid-like and erythroid precursor cells	Erythroid-like and erythroid precursor cells	Erythroid-like and erythroid precursor cells
+Osteoblasts	Precursor cell	Osteoblasts	Osteoblasts	Osteoblasts
+Erythroblasts	Precursor cell	Erythroblasts	Erythroblasts	Erythroblasts
+Osteoclasts	Somatic cell	Bone cell	Osteoclasts	Osteoclasts
+Osteocytes	Somatic cell	Bone cell	Osteocytes	Osteocytes
+Myofibroblasts	Somatic cell	Myofibroblasts	Myofibroblasts	Myofibroblasts
+Hemangioblasts	Somatic cell	Hemangioblasts	Hemangioblasts	Hemangioblasts
+Trophoblast cells	Somatic cell	Trophoblast cells	Trophoblast cells	Trophoblast cells
+Spermatocytes	Somatic cell	Germ line cell	Spermatocytes	Spermatocytes
+Spermatozoa	Somatic cell	Germ line cell	Spermatozoa	Spermatozoa
+Germ cells	Somatic cell	Germ line cell	Germ cells	Germ cells
+His bundle cells	Somatic cell	His bundle cells	His bundle cells	His bundle cells
+Sebocytes	Somatic cell	Secretory cell	Sebocytes	Sebocytes
+Epsilon cells	Epithelial cells	Secretory cell	Pancreas	Epsilon cells
+Leydig cells	Somatic cell	Secretory cell	Leydig cells	Leydig cells
+Melanocytes	Somatic cell	Melanocytes	Melanocytes	Melanocytes
+Undefined placental cells	Somatic cell	Undefined placental cells	Undefined placental cells	Undefined placental cells

@@ -1,0 +1,5 @@
+^MT-|^Mt-|^mt-	Mtpattern
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples.txt	hto_sample_file
+0	pool_sample
+^Rp[sl][[:digit:]]|^RP[SL][[:digit:]]	rRNApattern
+Hs	species

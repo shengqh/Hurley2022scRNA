@@ -1,0 +1,7 @@
+/data/cqs/references/scrna/HLA_panglao5.txt	HLA_panglao5_file
+0	annotate_tcell
+/data/cqs/references/scrna/curated_markers.txt	curated_markers_file
+/data/cqs/references/scrna/PanglaoDB_markers_27_Mar_2020.tsv	db_markers_file
+T cells,B cells,Fibroblasts,Neurons	remove_subtype
+Hs	species
+/data/cqs/references/scrna/TcellAI_marker.txt	tcell_markers_file

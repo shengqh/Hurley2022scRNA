@@ -1,0 +1,7 @@
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_4701/HYW_4701.HTO.csv	HYW_4701
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_4847/HYW_4847.HTO.csv	HYW_4847
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_4880/HYW_4880.HTO.csv	HYW_4880
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_4881/HYW_4881.HTO.csv	HYW_4881
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_5386/HYW_5386.HTO.csv	HYW_5386
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_5742/HYW_5742.HTO.csv	HYW_5742
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples_cutoff/result/HYW_5755/HYW_5755.HTO.csv	HYW_5755

@@ -1,0 +1,8 @@
+Epithelial cells	10
+Epithelial cells	11
+Epithelial cells	12
+Fibroblasts	13
+Epithelial cells	21
+Neurons	24
+Epithelial cells	5
+Epithelial cells	6

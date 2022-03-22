@@ -1,0 +1,16 @@
+^MT-|^Mt-|^mt-	Mtpattern
+TRUE	Remove_Mt_rRNA
+0	batch_for_integration
+0	by_integration
+1	by_sctransform
+/scratch/cqs/shengq2/paula_hurley_projects/20210303_scRNA_human/hto_samples.txt	hto_sample_file
+1	integration_by_harmony
+40	mt_cutoff
+500	nCount_cutoff
+8000	nFeature_cutoff_max
+200	nFeature_cutoff_min
+50	pca_dims
+0	pool_sample
+^Rp[sl][[:digit:]]|^RP[SL][[:digit:]]	rRNApattern
+0.5	resolution
+Hs	species
