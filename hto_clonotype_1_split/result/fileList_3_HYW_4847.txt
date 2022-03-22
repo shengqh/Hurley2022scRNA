@@ -1,0 +1,2 @@
+HYW_4847_Benign	Benign
+HYW_4847_Tumor	Tumor

@@ -1,0 +1,2 @@
+HYW_5742_Benign	Benign
+HYW_5742_Tumor	Tumor

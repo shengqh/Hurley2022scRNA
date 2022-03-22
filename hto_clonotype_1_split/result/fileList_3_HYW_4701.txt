@@ -1,0 +1,2 @@
+HYW_4701_Benign	TotalSeqC0251
+HYW_4701_Tumor	TotalSeqC0252

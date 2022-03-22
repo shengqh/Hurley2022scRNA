@@ -1,0 +1,2 @@
+HYW_4880_Benign	TotalSeq
+HYW_4880_Tumor	TotalSeq.1
