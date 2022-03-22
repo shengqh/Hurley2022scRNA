@@ -1,0 +1,25 @@
+^MT-|^Mt-|^mt-	Mtpattern
+
+TRUE	Remove_Mt_rRNA
+
+0	by_integration
+
+1	by_sctransform
+
+renamed_cellactivity_clusters	celltype_name
+
+seurat_renamed_cellactivity_clusters	cluster_name
+
+/data/cqs/references/scrna/PanglaoDB_markers_27_Mar_2020.tsv	markers_file
+
+50	pca_dims
+
+PH_scRNA	prefix
+
+^Rp[sl][[:digit:]]|^RP[SL][[:digit:]]	rRNApattern
+
+	recluster_celltypes
+
+0.25	resolution
+
+Hs	species

@@ -1,0 +1,45 @@
+14	B_cells
+
+15	B_cells
+
+16	B_cells
+
+0	Endothelial
+
+22	Endothelial
+
+2	Epithelial
+
+5	Epithelial
+
+6	Epithelial
+
+10	Epithelial
+
+11	Epithelial
+
+12	Epithelial
+
+21	Epithelial
+
+25	Epithelial
+
+13	Fibroblasts
+
+20	Fibroblasts
+
+4	Myeloid
+
+18	Myeloid
+
+1	T_cells
+
+3	T_cells
+
+7	T_cells
+
+9	T_cells
+
+17	T_cells
+
+23	T_cells
