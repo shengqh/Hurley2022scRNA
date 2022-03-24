@@ -2,8 +2,7 @@
 
 Correct as at 24 March 2022
 
-This repository contains all code used in manuscript:
-Single-cell RNA Sequencing Demonstrates Inter-Patient Heterogeneity and Altered Tumor Microenvironment in Invasive and Intraductal Cribriform Prostate Cancer
+This repository contains all codes used in manuscript: Single-cell Analysis Reveals Cell Intrinsic and Microenvironmental Underpinnings of Disease Aggressiveness in Cribriform Prostate Cancer
 
 # Organism
 
