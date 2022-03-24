@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+survminer v0.4.9
+https://rpkgs.datanovia.com/survminer/index.html
+The survminer R package provides functions for facilitating survival analysis and visualization.
+
+
+System Requirements:
+Requires R to be installed, ggplot2, and ggpubr (≥ 0.1.6).
+
+
+Installation Guide:
+https://rpkgs.datanovia.com/survminer/index.html#installation-and-loading
+Available on CRAN.
+
+
+Demo:
+https://cloud.r-project.org/web/packages/survminer/vignettes/Informative_Survival_Plots.html
+A vignette to demonstrate how to create survival plots.
+
+
+Instructions for use:
+https://cloud.r-project.org/web/packages/survminer/survminer.pdf
+This is the full manual for survminer.

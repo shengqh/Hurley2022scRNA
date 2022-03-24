@@ -1,0 +1,26 @@
+Correct as at 24 March 2022
+
+
+scRNABatchQC v0.10.4
+https://github.com/liuqivandy/scRNABatchQC
+scRNABatchQC is an R package for generating a HTML QC report to check and compare quality of multiple single cell RNA-seq datasets. scRNABatchQC supports multiple types of inputs, including gene-cell count matrices, 10x genomics, SingleCellExperiment or Seurat v3 objects. Please see the manual for the usage of scRNABatchQC and the explanation of the HTML report.
+
+
+System Requirements:
+http://htmlpreview.github.io/?https://github.com/liuqivandy/scRNABatchQC/blob/master/scRNABatchQC_manual.html
+scRNABatchQC has been tested on multiple platforms (windows, MacOS, linux & CentOS 7) with memory from 4G to 1000G on multiple datasets. Each dataset has 2-6 samples, and each sample has over 20000 genes and 2000-14000 cells. However, the system will probably be out of memory if one sample is very big (huge amount of cells) or there are too many samples (requring a large memory for the combined dataset).
+
+
+Installation Guide:
+https://github.com/liuqivandy/scRNABatchQC#readme
+Install pandoc (https://github.com/jgm/pandoc/releases/tag/2.2.1) (pandoc is required to convert files from markup format into html format). After installation , update your path to include the directory where pandoc’s binaries are installed, and then install scRNABatchQC.
+
+
+Demo:
+https://github.com/liuqivandy/scRNABatchQC#readme
+Please see example 1: Check and compare the quality of two scRNA-seq datasets from Retinal Bipolar Neurons (Cell 2016 Aug 25;166(5):1308-1323 ). The scRNA-seq datasets are provided by the gene(row)-cell(column) matrices (the rowname should be gene symbol). Since one dataset has more than 14,000 cells and 2,4904 genes, memory >= 4Gb and 64 bit system are required.
+
+
+Instructions for use:
+http://htmlpreview.github.io/?https://github.com/liuqivandy/scRNABatchQC/blob/master/scRNABatchQC_manual.html
+This is the manual for scRNABatchQC.

@@ -1,0 +1,26 @@
+Correct as at 24 March 2022
+
+
+R v4.1.0
+https://cran.r-project.org/bin/windows/base/old/4.1.0/
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. 
+
+
+System Requirements:
+https://cran.r-project.org/doc/FAQ/R-FAQ.html#What-machines-does-R-run-on_003f
+R is being developed for the Unix-like, Windows and Mac families of operating systems. Support for Mac OS Classic ended with R 1.7.1. The current version of R will configure and build under a number of common Unix-like (e.g., https://en.wikipedia.org/wiki/Unix-like) platforms including cpu-linux-gnu for the i386, amd64/x86_64, alpha, arm, arm64, hppa, mips/mipsel, powerpc, s390x and sparc CPUs (e.g., https://buildd.debian.org/build.php?&pkg=r-base), i386-hurd-gnu, cpu-kfreebsd-gnu for i386 and amd64, i386-pc-solaris, rs6000-ibm-aix, sparc-sun-solaris, x86_64-apple-darwin, aarch64-apple-darwin, x86_64-unknown-freebsd and x86_64-unknown-openbsd.
+
+
+Installation Guide (Windows):
+https://cran.r-project.org/doc/FAQ/R-FAQ.html#How-can-R-be-installed-_0028Mac_0029
+For Windows, the bin/windows directory of a CRAN site contains binaries for a base distribution and add-on packages from CRAN to run on Windows 7 and later (including 64-bit versions of Windows) on ix86 and x86_64 chips. 
+
+
+Demo:
+https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Simple-manipulations-numbers-and-vectors
+R operates on named data structures. This is a simple demo to manipulate simplest data structure, the numeric vector, which is a single entity consisting of an ordered collection of numbers. Please refer to manual in the next "Instructions for use" section.
+
+
+Instructions for use:
+https://cran.r-project.org/doc/manuals/r-release/R-intro.html
+This is an introduction to R (“GNU S”), a language and environment for statistical computing and graphics. This manual provides information on data types, programming elements, statistical modelling and graphics.

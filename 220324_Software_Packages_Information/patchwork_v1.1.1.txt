@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+patchwork v1.1.1
+https://github.com/thomasp85/patchwork
+The goal of patchwork is to make it ridiculously simple to combine separate ggplots into the same graphic. As such it tries to solve the same problem as gridExtra::grid.arrange() and cowplot::plot_grid but using an API that incites exploration and iteration, and scales to arbitrily complex layouts.
+
+
+System Requirements:
+Requires R to be installed, and ggplot2 (≥ 3.0.0), gtable, grid, stats, grDevices, utils, and graphics.
+
+
+Installation Guide:
+https://github.com/thomasp85/patchwork#readme
+Available on CRAN.
+
+
+Demo:
+https://github.com/thomasp85/patchwork#readme
+In "Basic example" - the usage of patchwork is simple: just add plots together!
+
+
+Instructions for use:
+https://patchwork.data-imaginist.com/articles/patchwork.html
+Vignettes to show how to use patchwork to control layout, stack plots, pack plots, and annotate the composition.

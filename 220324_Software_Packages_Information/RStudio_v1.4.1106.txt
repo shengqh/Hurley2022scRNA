@@ -1,0 +1,26 @@
+Correct as at 24 March 2022
+
+
+RStudio v1.4.1106
+https://www.rstudio.com/
+RStudio is an integrated development environment (IDE) for R. It includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management. RStudio is available in open source and commercial editions and runs on the desktop (Windows, Mac, and Linux) or in a browser connected to RStudio Server or RStudio Workbench (Debian/Ubuntu, Red Hat/CentOS, and SUSE Linux).
+
+
+System Requirements:
+https://www.rstudio.com/products/rstudio/download/#download
+RStudio requires R 3.3.0+; Requires Windows 10/11 (64-bit); RStudio requires a 64-bit operating system.
+
+
+Installation Guide:
+https://www.rstudio.com/products/rstudio/download/#download
+Download relevant .exe installation file and follow GUI instructions.
+
+
+Demo:
+https://ourcodingclub.github.io/tutorials/intro-to-r/#vector
+This tutorial shows you hwo to create a vector and plot it so tha it shows up in the "Plots" quadrant of your RStudio screen.
+
+
+Instructions for use:
+https://ourcodingclub.github.io/tutorials/intro-to-r/
+This is a good R introduction for new users.

@@ -1,0 +1,31 @@
+Correct as at 24 March 2022
+
+
+dplyr v2.1.1
+https://github.com/tidyverse/dplyr
+dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges:
+- mutate() adds new variables that are functions of existing variables
+- select() picks variables based on their names.
+- filter() picks cases based on their values.
+- summarise() reduces multiple values down to a single summary.
+- arrange() changes the ordering of the rows.
+These all combine naturally with group_by() which allows you to perform any operation “by group”. You can learn more about them in vignette("dplyr"). As well as these single-table verbs, dplyr also provides a variety of two-table verbs, which you can learn about in vignette("two-table").
+
+
+System Requirements:
+R (≥ 3.4.0)
+
+
+Installation Guide:
+https://github.com/tidyverse/dplyr#readme
+Install with install.packages command.
+
+
+Demo:
+https://r4ds.had.co.nz/transform.html
+Chapter 5 on "Data Transformation" - In this chapter we’re going to focus on how to use the dplyr package, another core member of the tidyverse.
+
+
+Instructions for use:
+https://github.com/tidyverse/dplyr#readme
+Please see "Usage" section.

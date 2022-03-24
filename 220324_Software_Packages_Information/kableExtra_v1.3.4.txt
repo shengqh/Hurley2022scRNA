@@ -1,0 +1,28 @@
+Correct as at 24 March 2022
+
+
+kableExtra v1.3.4
+https://github.com/haozhu233/kableExtra
+Overall, to construct complex tables with knitr::kable() + %>%. This is a very simple table generator. It is simple by design. It is not intended to replace any other R packages for making tables. With kableExtra, you can: 
+- Use default base kable() (Or a good alternative for markdown tables is pander::pander()) for all simple tables
+- Use kable() with kableExtra to generate 90 % of complex/advanced/self-customized/beautiful tables in either HTML or LaTeX
+- Only have to mess with raw HTML/LaTeX in the last 10% cases where kableExtra cannot solve the problem
+
+
+System Requirements:
+R (≥ 3.1.0)
+
+
+Installation Guide:
+https://github.com/haozhu233/kableExtra#readme
+Install with install.packages command.
+
+
+Demo:
+http://haozhu233.github.io/kableExtra/awesome_table_in_html.html
+Create Awesome HTML Table with knitr::kable and kableExtra.
+
+
+Instructions for use:
+https://github.com/haozhu233/kableExtra#readme
+Please see "Basic Usage".

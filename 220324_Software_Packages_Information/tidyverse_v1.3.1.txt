@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+tidyverse v1.3.1
+https://www.tidyverse.org/
+The tidyverse is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
+
+
+System Requirements:
+R (≥ 3.3)
+
+
+Installation Guide:
+https://tidyverse.tidyverse.org/
+Available on CRAN.
+
+
+Demo:
+https://r4ds.had.co.nz/tibbles.html?q=tidyverse#prerequisites-4
+Explore the tibble package, part of the core tidyverse, in this Chapter.
+
+
+Instructions for use:
+https://moderndive.com/
+Statistical Inference via Data Science: A ModernDive into R and the tidyverse by Chester Ismay and Albert Y. Kim. “Help! I’m new to R and RStudio and I need to learn them! What do I do?” If you’re asking yourself this, this book is for you.

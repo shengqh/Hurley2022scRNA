@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+GSEA v4.2.1
+https://software.broadinstitute.org/cancer/software/gsea/wiki/index.php/GSEA_v4.2.x_Release_Notes#GSEA_Desktop_v4.2.1_.28Dec_2021.29
+Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether an a priori defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes). The Gene Set Enrichment Analysis PNAS paper (PMID: 16199517) fully describes the algorithm. The GSEA software makes it easy to run the analysis and review the results, allowing you to focus on interpreting the analysis results.
+
+
+System Requirements:
+Available across multiple platforms, and 64-bit is required for Windows or Linux.
+
+
+Installation Guide:
+http://www.gsea-msigdb.org/gsea/downloads.jsp
+Download and install to fit platform of your choice. Click “Downloads” at the top; need to enter email to load download page.
+
+
+Demo:
+https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html
+Please see the "Running a Gene Set Enrichment Analysis" section with example from PNAS manuscript (PMID: 16199517).
+
+
+Instructions for use:
+https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html
+This is the official GSEA user guide.

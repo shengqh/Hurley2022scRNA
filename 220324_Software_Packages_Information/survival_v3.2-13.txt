@@ -1,0 +1,24 @@
+Correct as at 24 March 2022
+
+
+survival v3.2-13
+https://cran.r-project.org/web/packages/survival/index.html
+Contains the core survival analysis routines, including definition of Surv objects, Kaplan-Meier and Aalen-Johansen (multi-state) curves, Cox models, and parametric accelerated failure time models.
+
+System Requirements:
+R (≥ 3.5.0)
+
+
+Installation Guide:
+https://github.com/therneau/survival#readme
+Should be able to install this using the following R code: library(devtools); install_github("therneau/survival").
+
+
+Demo:
+https://cran.r-project.org/web/packages/survival/vignettes/adjcurve.pdf
+This is th vignette for adjusted survival curves.
+
+
+Instructions for use:
+https://cran.r-project.org/web/packages/survival/survival.pdf
+This is the full manual for survival.

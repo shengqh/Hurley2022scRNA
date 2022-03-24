@@ -1,0 +1,26 @@
+Correct as at 24 March 2022
+
+
+edgeR v3.36.0
+https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeR.pdf
+edgeR is a package for the differential expression analysis of digital gene expression data, that is, of count data arising from DNA sequencing technologies. It is especially designed for differential expression analyses of RNA-Seq or SAGE data, or differential marking analyses of ChIP-Seq data.
+
+
+System Requirements:
+https://bioconductor.org/packages/release/bioc/html/edgeR.html
+Depends: R (>= 3.6.0) and limma(>= 3.41.5)
+
+
+Installation Guide:
+https://bioconductor.org/packages/release/bioc/html/edgeR.html
+To install this package, start R (version "4.1") and install via BiocManager.
+
+
+Demo:
+https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf
+ook at page 44, Chapter 4, Section 4.1. This section provides a detailed analysis of data from a paired design RNA-seq experiment, featuring oral squamous cell carcinomas and matched normal tissue from three patients. The aim of the analysis is to detect genes differentially expressed between tumor and normal tissue, adjusting for any differences between the patients. This provides an example of the GLM capabilities of edgeR.
+
+
+Instructions for use:
+https://bioconductor.org/packages/release/bioc/vignettes/edgeR/inst/doc/edgeRUsersGuide.pdf
+This is the full user guide, and the full reference manual for edgeR is here: https://bioconductor.org/packages/release/bioc/manuals/edgeR/man/edgeR.pdf

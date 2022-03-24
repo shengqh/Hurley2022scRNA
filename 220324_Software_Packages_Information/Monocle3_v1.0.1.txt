@@ -1,0 +1,29 @@
+Correct as at 24 March 2022
+
+
+Monocle3 v1.0.1
+https://cole-trapnell-lab.github.io/monocle3/docs/introduction/
+Monocle 3 package provides a toolkit for analyzing single-cell gene expression experiments. Monocle 3 can help you perform three main types of analysis:
+- Clustering, classifying, and counting cells. Single-cell RNA-Seq experiments allow you to discover new (and possibly rare) subtypes of cells. Monocle 3 helps you identify them.
+- Constructing single-cell trajectories. In development, disease, and throughout life, cells transition from one state to another. Monocle 3 helps you discover these transitions.
+- Differential expression analysis. Characterizing new cell types and states begins with comparisons to other, better understood cells. Monocle 3 includes a sophisticated, but easy-to-use system for differential expression.
+
+
+System Requirements:
+https://cole-trapnell-lab.github.io/monocle3/docs/installation/
+Monocle 3 runs in the R statistical computing environment. You will need R version 3.6.1 or higher, Bioconductor version 3.10, and monocle3 0.2.3 or higher to have access to the latest features.
+
+
+Installation Guide:
+https://cole-trapnell-lab.github.io/monocle3/docs/installation/
+Highly recommended to install Monocle through the bioconductor project. So, install bioconductor first and then monocle via biocLite.
+
+
+Demo:
+https://cole-trapnell-lab.github.io/monocle3/docs/trajectories/
+This is a demo to construct single-cell trajectories. The workflow for reconstructing trajectories is very similar to the workflow for clustering, but it has a few additional steps. To illustrate the workflow, we will use another C. elegans data set, this one from Packer & Zhu et al. Their study includes a time series analysis of whole developing embyros. We will examine a small subset of the data which includes most of the neurons.
+
+
+Instructions for use:
+https://cole-trapnell-lab.github.io/monocle3/docs/starting/
+Here are codes that highlight the main steps of Monocle 3 shown in the workflow diagram.

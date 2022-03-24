@@ -1,0 +1,33 @@
+Correct as at 24 March 2022
+
+
+10x Genomics Cell Ranger v5.0.0
+https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger
+Cell Ranger is a set of analysis pipelines that process Chromium single-cell data to align reads, generate feature-barcode matrices, perform clustering and other secondary analysis, and more.
+
+
+System Requirements:
+https://support.10xgenomics.com/single-cell-gene-expression/software/overview/system-requirements
+Cell Ranger pipelines run on Linux systems that meet these minimum requirements:
+8-core Intel or AMD processor (16 cores recommended)
+64GB RAM (128GB recommended)
+1TB free disk space
+64-bit CentOS/RedHat 6.0 or Ubuntu 12.04
+
+
+Installation Guide:
+https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/installation
+Cell Ranger is delivered as a single, self-contained tar file that can be unpacked anywhere on your system. It bundles all of its required software dependencies, which are pre-compiled to run on a wide range of Linux distributions. For convenience, the reference data package required for Cell Ranger is provided as a separate download. The instructions below are intended to be concise and assume some familiarity with Linux.
+
+Tutorial to install Cell Ranger:
+https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_in
+
+
+Demo:
+https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/tutorials/gex-analysis-nature-publication
+This guide outlines how to perform the analysis and highlights the results 10x Genomics assays and software produce using data from a Nature publication “Single-cell transcriptomes of the regenerating intestine reveal a revival stem cell” (2019; doi: 10.1038/s41586-019-1154-y).
+
+
+Instructions for use:
+https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorials
+This section contains tutorials for analysis of your single cell gene expression data with Cell Ranger.

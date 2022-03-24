@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+reshape2 v1.4.4
+https://github.com/hadley/reshape
+Reshape2 is a reboot of the reshape package. It's been over five years since the first release of reshape, and in that time I've learned a tremendous amount about R programming, and how to work with data in R. Reshape2 uses that knowledge to make a new package for reshaping data that is much more focused and much much faster. Note that reshape2 is superseded: only changes necessary to keep it on CRAN will be made.
+
+
+System Requirements:
+R (≥ 3.1)
+
+
+Installation Guide:
+http://had.co.nz/reshape/
+Available from CRAN.
+
+
+Demo:
+http://had.co.nz/reshape/french-fries-demo.html
+Quick demo with french fries data - this is a QuickTime video.
+
+
+Instructions for use:
+https://www.jstatsoft.org/article/view/v021i12
+Reshaping Data with the reshape Package: This paper presents the reshape package for R, which provides a common framework for many types of data reshaping and aggregation. It uses a paradigm of 'melting' and 'casting', where the data are 'melted' into a form which distinguishes measured and identifying variables, and then 'cast' into a new shape, whether it be a data frame, list, or high dimensional array. The paper includes an introduction to the conceptual framework, practical advice for melting and casting, and a case study.

@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+ggplot2 v3.3.5
+https://github.com/tidyverse/ggplot2
+ggplot2 is a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+
+
+System Requirements:
+R (≥ 3.3)
+
+
+Installation Guide:
+https://github.com/tidyverse/ggplot2#readme
+The easiest way to get ggplot2 is to install the whole tidyverse, or just ggplot2 alone works too.
+
+
+Demo:
+https://www.youtube.com/watch?v=h29g21z0a68
+This is a YouTube Webinar by Thomas Lin Pedersen (recommended in the "Learning ggplot2" section of the official ggplot2 README file: https://github.com/tidyverse/ggplot2#readme
+
+
+Instructions for use:
+https://github.com/tidyverse/ggplot2#readme
+Check the "Usage" section: "It’s hard to succinctly describe how ggplot2 works because it embodies a deep philosophy of visualisation. However, in most cases you start with ggplot(), supply a dataset and aesthetic mapping (with aes()). You then add on layers (like geom_point() or geom_histogram()), scales (like scale_colour_brewer()), faceting specifications (like facet_wrap()) and coordinate systems (like coord_flip())."

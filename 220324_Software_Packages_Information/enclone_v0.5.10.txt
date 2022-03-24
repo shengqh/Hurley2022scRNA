@@ -1,0 +1,26 @@
+Correct as at 24 March 2022
+
+
+enclone v0.5.10
+https://10xgenomics.github.io/enclone/
+10x Genomics Chromium Single Cell V(D)J data containing B cell receptor (BCR) and T cell receptor (TCR) RNA sequences are entered as input data to enclone. Based on the input, enclone finds and organizes cells arising from the same progenitors into groups (clonotypes) and compactly displays each clonotype along with its salient features, including mutated amino acids.
+
+
+System Requirements:
+https://10xgenomics.github.io/enclone/#software
+Binary executables for Linux and Mac can be directly downloaded from this page, as can sample 10x Genomics datasets. enclone can be run on a laptop, desktop, or server.
+
+
+Installation Guide:
+https://10xgenomics.github.io/enclone/#download
+You can run enclone directly from a Linux or Mac terminal window. This is not available for Windows yet, but can be ran on a Windows desktop by installing Ubuntu on Windows: https://10xgenomics.github.io/enclone/pages/auto/windows.html 
+
+
+Demo:
+https://10xgenomics.github.io/enclone/pages/auto/tree.html
+This vignette shows you how to make phylogenetic trees. enclone provides several mechanisms for creating, displaying, and exporting a phylogenetic tree for each clonotype. These are initial mechanisms, which are likely to be expanded and/or improved over time in response to feedback.
+
+
+Instructions for use:
+https://10xgenomics.github.io/enclone/#running
+Type "enclone help" to get started, and set enclone path to where your Cell Ranger outputs live.

@@ -1,0 +1,25 @@
+Correct as at 24 March 2022
+
+
+pheatmap v1.0.12
+https://github.com/raivokolde/pheatmap
+A package for drawing pretty heatmaps in R. The ordinary heatmap function in R has several drawbacks when it comes to producing publication quality heatmaps. It is hard to produce pictures with consistent text, cell and overall sizes and shapes. The function pheatmap tries to alleviate the problems by offering more fine grained control over heatmap dimensions and appearance
+
+
+System Requirements:
+R (≥ 2.0)
+
+
+Installation Guide:
+https://github.com/raivokolde/pheatmap#readme
+Available on CRAN.
+
+
+Demo:
+https://slowkow.com/notes/pheatmap-tutorial/
+Tutorial by Kamil Slowikowski to make heatmaps in R with pheatmap. Using quantile color breaks, so each color represents an equal proportion of the data, and clustering the data with neatly sorted dendrograms, so it’s easy to see which samples are closely or distantly related.
+
+
+Instructions for use:
+https://github.com/raivokolde/pheatmap/blob/master/R/pheatmap.r
+Example script posted by pheatmap contributor Raivo Kolde.

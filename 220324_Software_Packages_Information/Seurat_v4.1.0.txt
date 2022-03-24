@@ -1,0 +1,38 @@
+Correct as at 24 March 2022
+
+
+Seurat_v4.1.0
+https://satijalab.org/seurat/index.html
+Seurat is an R package designed for QC, analysis, and exploration of single-cell RNA-seq data. Seurat aims to enable users to identify and interpret sources of heterogeneity from single-cell transcriptomic measurements, and to integrate diverse types of single-cell data.
+
+
+System Requirements:
+To install Seurat, R version 4.0 or greater is required.
+
+
+Installation Guide:
+https://satijalab.org/seurat/articles/install.html
+Seurat is available on CRAN for all platforms.
+
+
+Demo:
+https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
+Analyzing a dataset of Peripheral Blood Mononuclear Cells (PBMC) freely available from 10X Genomics.
+
+
+Instructions for use:
+https://satijalab.org/seurat/articles/get_started.html
+Here is a series of vignettes, tutorials, and analysis walkthroughs to help users get started with Seurat.
+
+
+Full list of Seurat functions:
+https://satijalab.org/seurat/reference/index.html
+Functions for
+- Object interaction
+- Preprocessing
+- Differential expression
+- Dimensional Reduction
+- Clustering
+- Integration
+- Visualization
+- Data
